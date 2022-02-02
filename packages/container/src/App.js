@@ -3,8 +3,11 @@ import MarketingApp from './components/MarketingApp';
 
 const App = () => {
   return (
-    <MarketingApp />
-  )
-}
+    <>
+      <h1>Hi there!</h1>
+      <MarketingApp />
+    </>
+  );
+};
 
 export default App;
