@@ -6,7 +6,7 @@
     "build": "webpack --config config/webpack.prod.js"
   },
   "dependencies": {
-    "chart.js": "^2.9.4",
+    "chart.js": "^3.5.1",
     "primeflex": "^2.0.0",
     "primeicons": "^4.0.0",
     "primevue": "^3.0.1",
@@ -21,7 +21,7 @@
     "css-loader": "^5.0.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^4.5.0",
-    "node-sass": "^7.0.1",
+    "sass": "^1.49.7",
     "sass-loader": "^10.0.4",
     "style-loader": "^2.0.0",
     "vue-loader": "^16.0.0-beta.9",
